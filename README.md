@@ -1,9 +1,8 @@
-NOTE: THIS IS JUST A NEWER VERSION FOR XCODE 6.3! THERE ARE NO CHANGES IN FEATURES OF THE APP.
+NOTE: THIS VERSION OF SWIFT DATABASES USES... ALAMOFIRE AND SWIFTYJSON!
 
 This is the code (PHP & Swift/iOS end) for the iOS database connectivity App I created earlier.
 
-This App allows you to connect to an online database(mySQL) from Swift, using PHP. You may edit all this code and use it
-for yourself.
+This App allows you to connect to an online database(mySQL) from Swift (AlamoFire and SwiftyJSON), using PHP. You may edit all this code and use it for yourself.
 
 To make this work, follow these steps:
 
@@ -14,9 +13,5 @@ To make this work, follow these steps:
 3) Adjust the iOS end to work with your PHP
 
 4) Try it out!
-
-This will also work without modifying, since it is connected to my database. You may try it out with my database.
-
-NOTE: The iOS end is slightly different from the iOS end in the video, this version can get AND upload data in the same App.
 
 If you have any questions, mail me at: tajymany@gmail.com
